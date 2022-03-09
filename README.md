@@ -8,12 +8,12 @@ As a Data analyst working for one of the stores, perform market basket analysis 
 
 More specifically, the task is to analyze transactional data to identify the top 10 products likely to be purchased together.
 
-b) Understanding the Context
+b) Context
 
 A dataset is provided and it contains the transactional data of products sold in the past week.
 
 Analysis will be carried out on the transactional data and top 10 products likely to be purchased together identified.
 
-c) Defining the Metric for Success
+c) Metric for Success
 
 The metrics will be finding an association of itemsets with more than 0.3 Confidence, and Lift greater than 1
